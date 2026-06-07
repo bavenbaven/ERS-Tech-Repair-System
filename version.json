@@ -1,0 +1,6 @@
+{
+  "version": "2.79.0.0",
+  "publishedAt": "2026-06-07T00:00:00Z",
+  "downloadUrl": "https://github.com/bavenbaven/ERS-Tech-Repair-System/releases/download/v2.79/ERSTech.exe",
+  "releaseNotes": "新增在线更新功能；维修工单列表分页；修复商品名称显示问题。"
+}
